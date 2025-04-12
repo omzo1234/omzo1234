@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Addictdev)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=HI_I_AM_Omar_Boune_Khatab_THIAM)]()
 
 ![](https://komarev.com/ghpvc/?username=omzo1234)
 [![GitHub followers](https://img.shields.io/github/followers/cisse410.svg?style=social&label=Follows&maxAge=30000&r=5465465)](https://github.com/omzo1234?tab=followers)
